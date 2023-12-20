@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-04T10:44:33.489Z</updated>
+  <updated>2023-12-20T12:22:25.067Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>newTitle</title>
-    <link href="http://example.com/2023/11/04/newTitle/"/>
-    <id>http://example.com/2023/11/04/newTitle/</id>
-    <published>2023-11-04T11:34:26.795Z</published>
-    <updated>2023-11-04T10:44:33.489Z</updated>
+    <title>小技巧</title>
+    <link href="http://example.com/2023/12/20/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <id>http://example.com/2023/12/20/%E5%B0%8F%E6%8A%80%E5%B7%A7/</id>
+    <published>2023-12-20T11:45:41.000Z</published>
+    <updated>2023-12-20T12:22:25.067Z</updated>
     
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2023/12/20/pra/"/>
+    <id>http://example.com/2023/12/20/pra/</id>
+    <published>2023-12-20T11:30:28.999Z</published>
+    <updated>2023-12-20T11:35:13.325Z</updated>
+    
+    <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Document</title></head><body>    </body><script>let obj = {    name: 'za'};let arr = [1, 2, 3];console.log(obj instanceof Object);console.log(arr instanceof Array);</script></html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;</summary>
+      
     
     
     
@@ -42,6 +66,26 @@
       
       
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>newTitle</title>
+    <link href="http://example.com/2021/09/04/newTitle/"/>
+    <id>http://example.com/2021/09/04/newTitle/</id>
+    <published>2021-09-04T10:41:54.000Z</published>
+    <updated>2023-11-11T11:23:03.092Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to my channel!<br>I’m testing someting interesting.<br>I’m dong something what could make me happier–yep,I’m still be controlled by my turbulent emotions.<br>Anyway,let’s GO!Do something that I’ve always wanted to do,while time is tickling all the <a href="https://time.is/Beijing">time</a>…dont click that ,that’s just wasting time,but it seems there is no more interesting or important things u could do although I certainly hope u have.</p><p>Wow,it’s already 338 words.<br>Amazing,when u start to do,there will be some vestiges.</p><h1 id="header1"><a href="#header1" class="headerlink" title="header1"></a>header1</h1><h2 id="header2"><a href="#header2" class="headerlink" title="header2"></a>header2</h2><p>do u like <strong>van yuanshen</strong>？</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;span class=&quot;heimu&quot;&gt;u know too much&lt;/span&gt;</span><br></pre></td></tr></table></figure><p>my fond authors:</p><ol><li>ts.eliot</li><li>马尔克斯</li><li>波拉尼奥</li><li>博尔赫斯</li></ol><p>my fond food</p><ul><li>麻辣香锅</li><li>麻辣拌</li><li>苹果派</li><li>奶油蘑菇汤</li></ul><p><del>你知道的太多了</del></p><!-- ~~世界是平坦的。~~ 我们现在知道世界是圆的。 --><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">code blcok</span><br><span class="line">testing</span><br></pre></td></tr></table></figure><p><code>coding block</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to my channel!&lt;br&gt;I’m testing someting interesting.&lt;br&gt;I’m dong something what could make me happier–yep,I’m still be controlled </summary>
       
     
     
