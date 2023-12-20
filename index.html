@@ -191,7 +191,7 @@
   
           </div>
           <div class="wordcount need-seperator meta-info">
-            118 words 
+            570 words 
           </div>
         </div>
         
@@ -199,8 +199,13 @@
       <div class="e-content article-entry" itemprop="articleBody">
         
           <div class="truncate-text">
-            JS 中如何判断是对象还是数组.
-12Object.prototype.toString.call(obj)//[object Object]Object.prototype.toString.call(arr)//[object Array]  
+            JS 中如何判断是对象还是数组.一。使用object.prototype
+123456let obj=&#123;    name:&#x27;andy&#x27;&#125;let arr=[1,2]Object.prototype.toString.call(obj)//[object Object]Object.prototype.toString.call(arr)//[object Array]
+二、使用Array.isArray()
+12Array.isArray(obj)//falseArray.isArray(arr)//true
+三、instanceof
+12obj.instanceof Array //falsearr.instanceof Array //true
+四、constructorarr.constructor&#x3D;&#x3D;Array &#x2F;&#x2F;truearr.constructor&#x3D;&#x3D;Object &#x2F;&#x2F;false五、isPrototypeOf  检测一个对象是否是数组的原型Array...  
           </div>
         
       </div>
