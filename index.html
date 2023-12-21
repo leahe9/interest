@@ -191,7 +191,7 @@
   
           </div>
           <div class="wordcount need-seperator meta-info">
-            570 words 
+            514 words 
           </div>
         </div>
         
@@ -205,7 +205,10 @@
 12Array.isArray(obj)//falseArray.isArray(arr)//true
 三、instanceof
 12obj.instanceof Array //falsearr.instanceof Array //true
-四、constructorarr.constructor&#x3D;&#x3D;Array &#x2F;&#x2F;truearr.constructor&#x3D;&#x3D;Object &#x2F;&#x2F;false五、isPrototypeOf  检测一个对象是否是数组的原型Array...  
+四、constructor
+12arr.constructor==Array //truearr.constructor==Object //false
+五、isPrototypeOf  检测一个对象是否是数组的原型
+12Array.prototype.isPrototypeOf(obj)//fa...  
           </div>
         
       </div>
