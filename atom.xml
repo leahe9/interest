@@ -42,7 +42,7 @@
     <link href="http://example.com/2023/11/04/hello-world/"/>
     <id>http://example.com/2023/11/04/hello-world/</id>
     <published>2023-11-04T11:34:26.793Z</published>
-    <updated>2023-11-04T09:48:40.244Z</updated>
+    <updated>2023-12-21T09:24:36.938Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deployiii</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -54,15 +54,17 @@
     
     
     
+    <category term="首页" scheme="http://example.com/categories/%E9%A6%96%E9%A1%B5/"/>
+    
     
   </entry>
   
   <entry>
-    <title>newTitle</title>
+    <title>草稿</title>
     <link href="http://example.com/2021/09/04/newTitle/"/>
     <id>http://example.com/2021/09/04/newTitle/</id>
     <published>2021-09-04T10:41:54.000Z</published>
-    <updated>2023-12-20T12:26:43.003Z</updated>
+    <updated>2023-12-21T09:24:01.869Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to my channel! .<br>I’m testing someting interesting.<br>I’m dong something what could make me happier–yep,I’m still be controlled by my turbulent emotions.<br>Anyway,let’s GO!Do something that I’ve always wanted to do,while time is tickling all the <a href="https://time.is/Beijing">time</a>…dont click that ,that’s just wasting time,but it seems there is no more interesting or important things u could do although I certainly hope u have.</p><p>Wow,it’s already 338 words.<br>Amazing,when u start to do,there will be some vestiges.</p><h1 id="header1"><a href="#header1" class="headerlink" title="header1"></a>header1</h1><h2 id="header2"><a href="#header2" class="headerlink" title="header2"></a>header2</h2><p>do u like <strong>van yuanshen</strong>？</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;span class=&quot;heimu&quot;&gt;u know too much&lt;/span&gt;</span><br></pre></td></tr></table></figure><p>my fond authors:</p><ol><li>ts.eliot</li><li>马尔克斯</li><li>波拉尼奥</li><li>博尔赫斯</li></ol><p>my fond food</p><ul><li>麻辣香锅</li><li>麻辣拌</li><li>苹果派</li><li>奶油蘑菇汤</li></ul><p><del>你知道的太多了</del></p><!-- ~~世界是平坦的。~~ 我们现在知道世界是圆的。 --><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">code blcok</span><br><span class="line">testing</span><br></pre></td></tr></table></figure><p><code>coding block</code></p>]]></content>
     
@@ -73,6 +75,8 @@
       
     
     
+    
+    <category term="软件安装与配置" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
     
     
   </entry>
